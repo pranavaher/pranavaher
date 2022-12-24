@@ -44,11 +44,10 @@
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 
 ### Connect with me:
-<a href = 'https://www.linkedin.com/in/pranav-aher-5855861a2/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/pranavaher9'> <img width = '32px' align= 'center' src="https://icons8.com/icon/13963/twitter"/></a> 
-
-[![Linkedin Badge](https://img.shields.io/badge/-khushiSaxena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranav-aher-5855861a2/)](https://www.linkedin.com/in/pranav-aher-5855861a2/)
+[![Linkedin Badge](https://img.shields.io/badge/-PranavAher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranav-aher-5855861a2/)](https://www.linkedin.com/in/pranav-aher-5855861a2/)
 [![Gmail Badge](https://img.shields.io/badge/-prranavyaher@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prranavyaher@gmail.com)](mailto:prranavyaher@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-PranavAher-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/PRANAVAHER9)
+
 
   
 <br>
