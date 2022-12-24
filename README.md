@@ -45,8 +45,8 @@
 
 ### Connect with me:
 <a href = 'https://www.linkedin.com/in/pranav-aher-5855861a2/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/pranavaher9'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/Aditya664'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://www.twitter.com/pranavaher9'> <img width = '32px' align= 'center' src="https://icons8.com/icon/13963/twitter"/></a> 
+
   
 <br>
 <br>
