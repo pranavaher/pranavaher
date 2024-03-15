@@ -40,10 +40,7 @@
 
 ### Connect with me :
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-aher-5855861a2/)
-[![Linkedin Badge](https://img.shields.io/badge/-PranavAher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranav-aher-5855861a2/)](https://www.linkedin.com/in/pranav-aher-5855861a2/)
-
 [![Gmail Badge](https://img.shields.io/badge/-prranavyaher@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prranavyaher@gmail.com)](mailto:prranavyaher@gmail.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prranavyaher@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-PranavAher-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/prranav_aher)
 
 <br>
