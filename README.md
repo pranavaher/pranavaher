@@ -9,7 +9,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on <b> Ruby on Rails </b>
-- 🌱 I’m currently learning <b> AWS </b>, <b> Golang </b>, <b> Docker </b> and <b> K8 </b>
+- 🌱 I’m currently learning <b> AWS</b>, <b> Golang</b>, <b> Docker</b> and <b> K8</b>.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
