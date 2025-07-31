@@ -6,7 +6,9 @@
 <div size='20px'> Hi! My name is Pranav. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<br>
+
+![](https://komarev.com/ghpvc/?username=pranavaher&style=for-the-badge)
 
 - 🔭 I’m currently working on <b> Ruby on Rails </b>
 - 🌱 I’m currently learning <b> AWS</b>, <b> Golang</b>, <b> Docker</b> and <b> K8</b>.
